@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.4.15/miui_ALIOTH_21.4.15_8f3a6c70dc_11.0.zip
-  ROM_Version: miui21.4.15
+  ROM_URL: http://sysupcdn3dl.vivo.com.cn/upgrade/recovery/recoveryFiles/20230721214647902de175e30873402b753e56071a5636.zip?sign=0cb5fb5fddc5d64f6720bffdecdb7a5d&amp;t=64f4b387
+  ROM_Version: IQOO7 8.11.0
   TZ: Asia/Shanghai
 
 jobs:
